@@ -1,0 +1,15 @@
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/bin/Debug/net6.0/hw001
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/bin/Debug/net6.0/hw001.deps.json
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/bin/Debug/net6.0/hw001.runtimeconfig.json
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/bin/Debug/net6.0/hw001.dll
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/bin/Debug/net6.0/hw001.pdb
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.csproj.AssemblyReference.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.AssemblyInfoInputs.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.AssemblyInfo.cs
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.dll
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/refint/hw001.dll
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.pdb
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/hw001.genruntimeconfig.cache
+/Users/irina/Desktop/ОБУЧЕНИЕ/3 ЯЗЫКИ ПРОГРАММИРОВАНИЯ/recursion/hw001/obj/Debug/net6.0/ref/hw001.dll
